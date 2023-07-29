@@ -1,11 +1,10 @@
 import Pages from './pages/Pages';
 
 function App() {
-  // console.log(process.env.REACT_API_KEY);
   return (
-    <>
+    <div>
       <Pages />
-    </>
+    </div>
   );
 }
 
